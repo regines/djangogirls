@@ -1,3 +1,39 @@
 h1 {
-  color: #426493;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #426493;
+  color: #ffffff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier new", Courier, monospace;
+}
+
+#header {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #426493;
+}
+
+#content {
+  width: 75%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #426493
+}
+
+.color {
+  font-size: 200%;
+  font-width: bold;
+}
+
+#Stoff {
+  font-size: 200%;
+  font-weight: bold;
 }
